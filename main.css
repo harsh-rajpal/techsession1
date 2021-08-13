@@ -1,0 +1,15 @@
+body{
+/* position: relative; */
+/* width: 1280px;
+height: 59px; */
+
+background: linear-gradient(180deg, rgba(18, 18, 18, 0) 0%, #121212 138.14%);
+}
+/* 
+ */
+.navbar-navbar-brand {
+    text-align: center;
+}
+.navbar-a:link:link {
+    color:white;
+}
